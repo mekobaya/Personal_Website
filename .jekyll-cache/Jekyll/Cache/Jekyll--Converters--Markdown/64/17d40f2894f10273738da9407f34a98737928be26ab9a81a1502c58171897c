@@ -1,0 +1,46 @@
+I"<h1 id="welcome-to-megans-personal-website">Welcome to Megan’s Personal Website</h1>
+
+<p>Some cool things about me and what my website is about</p>
+
+<h2 id="my-projects">My Projects</h2>
+<p>List of projects that I have done</p>
+
+<h2 id="my-experience">My Experience</h2>
+<p>List of work/jobs</p>
+
+<h2 id="hello-world">Hello World!</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt ornare massa eget egestas purus viverra. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Et malesuada fames ac turpis egestas maecenas. In nulla posuere sollicitudin aliquam ultrices sagittis. Rhoncus urna neque viverra justo nec ultrices dui. Eget nullam non nisi est. Nam at lectus urna duis convallis convallis tellus id interdum. Nec feugiat in fermentum posuere urna nec. Placerat orci nulla pellentesque dignissim enim sit amet venenatis. Duis ultricies lacus sed turpis tincidunt id aliquet. Aliquam ultrices sagittis orci a scelerisque purus semper eget. Ac placerat vestibulum lectus mauris ultrices. Odio euismod lacinia at quis risus.</p>
+
+<h2 id="another-section">Another Section</h2>
+
+<p><img src="/flexible-jekyll/assets/img/i-rest.jpg" alt="test" /></p>
+
+<p>Habitant morbi tristique senectus et netus et malesuada fames ac. Lectus quam id leo in vitae turpis massa. Molestie at elementum eu facilisis sed odio. Elementum sagittis vitae et leo duis. Duis convallis convallis tellus id interdum velit laoreet id. Auctor elit sed vulputate mi sit amet mauris commodo. Amet nulla facilisi morbi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Amet tellus cras adipiscing enim eu. Cursus vitae congue mauris rhoncus aenean. Vitae et leo duis ut. Fermentum leo vel orci porta non pulvinar. Aliquam id diam maecenas ultricies mi eget mauris. Turpis in eu mi bibendum neque egestas. Scelerisque fermentum dui faucibus in ornare. Tincidunt tortor aliquam nulla facilisi. Quam viverra orci sagittis eu volutpat odio.</p>
+
+<h2 id="recent-blog-posts">Recent Blog Posts</h2>
+
+<article class="post" style="min-height: 0rem">
+  <div class="post-content">
+    <h2 class="post-title"><a href="/flexible-jekyll/how-i-rest-from-work/">How I Rest From Work</a></h2>
+    <!-- <p>Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep...</p> -->
+    <span class="post-date">2017, Sep 12</span>
+  </div>
+</article>
+
+<article class="post" style="min-height: 0rem">
+  <div class="post-content">
+    <h2 class="post-title"><a href="/flexible-jekyll/the-best-organizer-software/">The Best Organizer Software</a></h2>
+    <!-- <p>Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh...</p> -->
+    <span class="post-date">2017, Sep 11</span>
+  </div>
+</article>
+
+<article class="post" style="min-height: 0rem">
+  <div class="post-content">
+    <h2 class="post-title"><a href="/flexible-jekyll/how-to-start-programming/">How To Start Programming</a></h2>
+    <!-- <p>Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid...</p> -->
+    <span class="post-date">2017, Sep 11</span>
+  </div>
+</article>
+:ET
